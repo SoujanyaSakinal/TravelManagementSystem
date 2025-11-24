@@ -234,7 +234,7 @@ public class BookHotel extends JFrame implements ActionListener{
     }
     
      public static void main(String[] args){
-        new BookHotel("souj");
+        new BookHotel("");
     }
 }
 

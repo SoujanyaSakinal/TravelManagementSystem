@@ -226,6 +226,6 @@ public class BookPackage extends JFrame implements ActionListener{
     }
     
      public static void main(String[] args){
-        new BookPackage("Koustubh_06");
+        new BookPackage("");
     }
 }
