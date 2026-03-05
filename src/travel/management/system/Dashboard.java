@@ -164,7 +164,6 @@ public class Dashboard extends JFrame implements ActionListener{
                 else if(ae.getSource()== destinations){
                     new Destinations(username);
                 }
-              
                 else if(ae.getSource()== loginbutton){
                     new Login();
                 }
